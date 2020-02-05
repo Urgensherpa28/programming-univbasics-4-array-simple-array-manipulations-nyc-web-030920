@@ -13,11 +13,6 @@ def using_pop(array)
   array.pop
 end
   
-# def using_pop(array)
-#   continents = [ "Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica" ]
-#   continents.size
-# end
-
 def pop_with_args(array)
   dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   dog_breeds.pop(2)
