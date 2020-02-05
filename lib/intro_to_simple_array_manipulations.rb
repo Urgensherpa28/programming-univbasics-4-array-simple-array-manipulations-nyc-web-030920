@@ -27,7 +27,6 @@ def using_concat(arr1, arr2)
 end
 
 def using_insert(array, element)
-  element1 = "1"
-  element2 = "2"
-  array.insert(element1)
+  list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
+  
 end
