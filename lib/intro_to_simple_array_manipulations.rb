@@ -13,7 +13,8 @@ def using_pop(array)
   array = [ "Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica" ]
   array.pop
 end
-  array.size
+  Array.size
+  
 # def using_pop(array)
 #   continents = [ "Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica" ]
 #   continents.size
